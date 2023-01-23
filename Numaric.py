@@ -1,0 +1,6 @@
+#print (2 + 2)
+print (4 - 2)
+print (2 * 2)
+print (type (5 // 3))
+ans = (5 // 3)
+print( str(ans) +" is of data " + (str(type(ans))))
